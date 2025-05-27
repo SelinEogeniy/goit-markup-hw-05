@@ -30,6 +30,7 @@ img {
 
 button {
   border: 0;
+  cursor: pointer;
 }
 .container {
   width: 1158px;
@@ -180,7 +181,6 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
-  cursor: pointer;
   display: block;
   min-width: 169px;
   height: 56px;
