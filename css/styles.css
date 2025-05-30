@@ -45,8 +45,8 @@ button {
   padding-right: 15px;
   margin: 0 auto;
 }
-/* Header */
-/* Logo */
+/* =========================Header ===========================*/
+/* ==========================Logo============================ */
 
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -85,7 +85,8 @@ button {
   color: #f4f4fd;
 }
 
-/* Menu  */
+/* ==========================Logo============================ */
+/* ==========================Menu============================  */
 .menu-list {
   display: flex;
   gap: 40px;
@@ -730,6 +731,7 @@ button {
   justify-content: center;
   align-items: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 .visually-hidden:checked + .privacy-description .empty-checkbox {
